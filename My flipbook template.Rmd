@@ -7,6 +7,7 @@ date: "19-10-2024 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
+    self_contained: true
     nature:
       highlightStyle: github
       highlightLines: true
